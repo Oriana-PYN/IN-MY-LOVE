@@ -130,7 +130,7 @@ function showFinalMessage() {
 }
 
 function redirectToNewPage() {
-  window.location.href = "http://127.0.0.1:5500/HEART.html";
+  window.location.href = "https://oriana-pyn.github.io/SUNNY/";
 }
 
 const elts = {
